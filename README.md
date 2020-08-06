@@ -1,4 +1,4 @@
-[Weatherstation Bram]
+Weatherstation Bram
 ===============
 
 Contents
