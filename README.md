@@ -18,7 +18,7 @@ This repository provides an overview of a weatherstation build which is currentl
 <a name="components"></a>
 ## 2. Used components
 
-Components currently in use:
+Electronic components:
 
 - [LilyGO TTGO T7 Mini32 V1.4 ESP32-WROVER](https://www.tinytronics.nl/shop/en/platforms/ttgo/lilygo-ttgo-t7-mini32-v1.4-esp32-wrover) € 12.00
 - [DHT11](https://www.adafruit.com/product/386) € 5.00
@@ -28,7 +28,7 @@ Components currently in use:
 - [18650 battery holder](https://www.tinytronics.nl/shop/en/batteries/battery-holders/1x-18650-battery-holder-with-loose-wires) € 1.00
 - Extra solid core wire (red, black, yellow)
 
-- For the enclosure:
+Components for the enclosure:
 	- Weatherproof box
 	- Piece of acrylic sheet
 	- 2 mounting hooks
